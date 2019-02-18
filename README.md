@@ -23,12 +23,7 @@ Here are the IP addresses of the devices that will be used in each POD.
 
 ![App Options](IPs.png)   
 
-1.- Using Chrome navigate to https://perseus-aus.cisco.com and login with the provided credentials
-* a. Username: tetperseuspod0X@cisco.com
-* b. Password: cl1v3Bar!(
 
-
-![Jupyter toolbar](login1.jpg)  
 
 2.- Using left navigation pane in Tetration UI, go to Data Platform --> User Apps.
 ![Jupyter toolbar](UserApp.png)  
